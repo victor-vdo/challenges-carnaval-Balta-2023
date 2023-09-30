@@ -1,0 +1,15 @@
+C:\Users\Victor\source\repos\desafio-1-balta-carnaval-2023\DesafioUm\DesafioUm\ConsoleApp1\bin\Debug\net6.0\DesafioUm.exe
+C:\Users\Victor\source\repos\desafio-1-balta-carnaval-2023\DesafioUm\DesafioUm\ConsoleApp1\bin\Debug\net6.0\DesafioUm.deps.json
+C:\Users\Victor\source\repos\desafio-1-balta-carnaval-2023\DesafioUm\DesafioUm\ConsoleApp1\bin\Debug\net6.0\DesafioUm.runtimeconfig.json
+C:\Users\Victor\source\repos\desafio-1-balta-carnaval-2023\DesafioUm\DesafioUm\ConsoleApp1\bin\Debug\net6.0\DesafioUm.dll
+C:\Users\Victor\source\repos\desafio-1-balta-carnaval-2023\DesafioUm\DesafioUm\ConsoleApp1\bin\Debug\net6.0\ref\DesafioUm.dll
+C:\Users\Victor\source\repos\desafio-1-balta-carnaval-2023\DesafioUm\DesafioUm\ConsoleApp1\bin\Debug\net6.0\DesafioUm.pdb
+C:\Users\Victor\source\repos\desafio-1-balta-carnaval-2023\DesafioUm\DesafioUm\ConsoleApp1\obj\Debug\net6.0\DesafioUm.csproj.AssemblyReference.cache
+C:\Users\Victor\source\repos\desafio-1-balta-carnaval-2023\DesafioUm\DesafioUm\ConsoleApp1\obj\Debug\net6.0\DesafioUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\source\repos\desafio-1-balta-carnaval-2023\DesafioUm\DesafioUm\ConsoleApp1\obj\Debug\net6.0\DesafioUm.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\desafio-1-balta-carnaval-2023\DesafioUm\DesafioUm\ConsoleApp1\obj\Debug\net6.0\DesafioUm.AssemblyInfo.cs
+C:\Users\Victor\source\repos\desafio-1-balta-carnaval-2023\DesafioUm\DesafioUm\ConsoleApp1\obj\Debug\net6.0\DesafioUm.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\desafio-1-balta-carnaval-2023\DesafioUm\DesafioUm\ConsoleApp1\obj\Debug\net6.0\DesafioUm.dll
+C:\Users\Victor\source\repos\desafio-1-balta-carnaval-2023\DesafioUm\DesafioUm\ConsoleApp1\obj\Debug\net6.0\ref\DesafioUm.dll
+C:\Users\Victor\source\repos\desafio-1-balta-carnaval-2023\DesafioUm\DesafioUm\ConsoleApp1\obj\Debug\net6.0\DesafioUm.pdb
+C:\Users\Victor\source\repos\desafio-1-balta-carnaval-2023\DesafioUm\DesafioUm\ConsoleApp1\obj\Debug\net6.0\DesafioUm.genruntimeconfig.cache
